@@ -10,15 +10,19 @@ authors:
 superuser: true
 
 # Role/position
-role: Graduate Reserch Assitant
+role: PhD student at University of Notre Dame
 
 # Organizations/Affiliations
 organizations:
 - name: University of Notre Dame
-  url: ""
+  url: "https://cse.nd.edu/"
+- name: Data, Inference, Analytics, and Learning (DIAL) Lab
+  url: "https://www3.nd.edu/~dial/home/"
+- name: Center for Network and Data Science (CNDS) 
+  url: "https://cnds.nd.edu"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include machine learning, knowledge graphs.
+bio: My research interests include machine learning, knowledge graphs 
 
 interests:
 - Artificial Intelligence
@@ -27,7 +31,6 @@ interests:
 - Reinforcement Learning
 
 education:
-  courses:
   - course: PhD in Computer Science
     institution: University of Notre Dame
     year: 2017
@@ -46,9 +49,6 @@ social:
 - icon: envelope
   icon_pack: fas
   link: '#contact'  # For a direct email link, use "mailto:test@example.org".
-- icon: linkedin
-  icon_pack: fab
-  link: https://www.linkedin.com/in/mandana-saebi/
 - icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.com/citations?user=tFm_ONIAAAAJ&hl=en
@@ -65,10 +65,9 @@ social:
 email: "msaebi@nd.edu"
 
 # Organizational groups that you belong to (for People widget)
-#   Set this to `[]` or comment out if you are not using People widget.
-user_groups:
-- Researchers
-- Visitors
+#   Set this to `[]` or comment out if you are not using People widget:
+
 ---
 
 I am a PhD student at the DIAL Lab at University of Notre Dame. My research interests lies in the intersection of graph mining and machine learning. In particular, I am interested in large-scale knowledge graphs, reinforcement learning, deep learning and meta learning. 
+
