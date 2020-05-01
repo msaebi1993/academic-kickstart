@@ -1,5 +1,5 @@
 ---
-title: "An example preprint / working paper"
+title: "Detecting Anomalies in Sequential Data with Higher-order Networks"
 authors:
 - admin
 date: "2019-04-07T00:00:00Z"
@@ -18,10 +18,10 @@ publication_types: ["3"]
 publication: ""
 publication_short: ""
 
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+abstract: A major branch of anomaly detection methods relies on dynamic networks; raw sequence data is first converted to a series of networks, then critical change points are identified in the evolving network structure. However, existing approaches use first-order networks (FONs) to represent the underlying raw data, which may lose important higher-order sequence patterns, making higher-order anomalies undetectable in subsequent analysis. We present a novel higher-order anomaly detection method that is both parameter-free and scalable, building on an improved higher-order network (HON) construction algorithm. We show the proposed higher-order anomaly detection algorithm is effective in discovering variable orders of anomalies. Our data includes a synthetic 11 billion web clickstreams and a real-world taxi trajectory data.
 
 # Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+#summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. #Duis posuere tellus ac convallis placerat. Proin tincidunt magna #sed ex sollicitudin condimentum.
 
 tags:
 - Source Themes
@@ -29,8 +29,8 @@ featured: false
 
 links:
 - name: Custom Link
-  url: http://example.org
-url_pdf: http://arxiv.org/pdf/1512.04133v1
+  url: ""
+url_pdf: https://arxiv.org/pdf/1712.09658.pdf
 url_code: '#'
 url_dataset: '#'
 url_poster: '#'
