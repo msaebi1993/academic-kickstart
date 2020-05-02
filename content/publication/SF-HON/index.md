@@ -1,7 +1,11 @@
 ---
-title: "Detecting Anomalies in Sequential Data with Higher-order Networks"
+title: "Higher-order patterns of aquatic species spread through the global shipping network"
 authors:
 - admin
+- Jian Xu
+- Erin K Grey
+- David M Lodge
+- Nitesh V Chawla
 date: "2019-04-07T00:00:00Z"
 doi: ""
 
@@ -18,7 +22,7 @@ publication_types: ["3"]
 publication: ""
 publication_short: ""
 
-abstract: A major branch of anomaly detection methods relies on dynamic networks; raw sequence data is first converted to a series of networks, then critical change points are identified in the evolving network structure. However, existing approaches use first-order networks (FONs) to represent the underlying raw data, which may lose important higher-order sequence patterns, making higher-order anomalies undetectable in subsequent analysis. We present a novel higher-order anomaly detection method that is both parameter-free and scalable, building on an improved higher-order network (HON) construction algorithm. We show the proposed higher-order anomaly detection algorithm is effective in discovering variable orders of anomalies. Our data includes a synthetic 11 billion web clickstreams and a real-world taxi trajectory data.
+abstract: The introduction and establishment of non-indigenous species (NIS) through global ship movements is a significant threat to marine ecosystems and economies. While ballast-vectored invasions have been partly addressed by some national policies and an international agreement regulating the concentrations of organisms in ballast water, biofouling-vectored invasions remain a large risk. Development of additional realistic and cost-effective ship-borne NIS policies requires an accurate estimation of NIS spread risk from both ballast water and biofouling. In this paper, we demonstrate that first-order Markov assumptions limit accurate modeling of NIS spread risks through the global shipping network. In contrast, we show that higher-order patterns overcome this limitation by revealing indirect pathways of NIS transfer. We accomplish this by developing Species Flow Higher-Order Networks (SF-HON), which we developed independently for ballast and biofouling, for comparison with first-order Markovian models of ballast and biofouling. We evaluated SF-HON predictions using the largest available datasets of invasive species for Europe and the United States. We show that not only does SF-HON yield more accurate NIS spread risk predictions than first-order models and existing higher-order models, but also that there are important differences in NIS spread via the ballast and biofouling vectors. Our work provides information that policymakers can use to develop more efficient and targeted prevention strategies for ship-borne NIS spread management, especially as management of biofouling is of increasing concern.
 
 # Summary. An optional shortened abstract.
 #summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. #Duis posuere tellus ac convallis placerat. Proin tincidunt magna #sed ex sollicitudin condimentum.
@@ -28,16 +32,16 @@ tags:
 featured: false
 
 links:
-- name: Custom Link
-  url: ""
+#- name: Custom Link
+#  url: ""
 url_pdf: https://arxiv.org/pdf/1712.09658.pdf
-url_code: '#'
-url_dataset: '#'
-url_poster: '#'
-url_project: ''
-url_slides: ''
-url_source: '#'
-url_video: '#'
+#url_code: '#'
+#url_dataset: '#'
+#url_poster: '#'
+#url_project: ''
+#url_slides: ''
+#url_source: '#'
+#url_video: '#'
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 

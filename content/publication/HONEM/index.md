@@ -2,6 +2,9 @@
 title: "HONEM: Network Embedding Using Higher-Order Patterns in Sequential Data"
 authors:
 - admin
+- Giovanni Luca Ciampaglia
+- Lance M Kaplan
+- Nitesh V Chawla 
 
 date: "2019-08-15T00:00:00Z"
 doi: ""
@@ -19,7 +22,7 @@ publication_types: ["3"]
 #publication: "*Journal of Source Themes, 1*(1)"
 #publication_short: ""
 
-abstract: Representation learning offers a powerful alter- native to the oft painstaking process of manual feature engi- neering, and as a result, has enjoyed considerable success in recent years. This success is especially striking in the context of graph mining, since networks can take advantage of vast troves of sequential data to encode information about interactions between entities of interest. But how do we learn embeddings on networks that have higher-order and sequential dependen- cies? Existing network embedding methods naively assume the Markovian property (first-order dependency) for node interactions, which may not capture the time-dependent and longer-range underlying complex interactions of the raw data. To address the limitation of current methods, we propose a network embedding method for higher-order networks (HON). We demonstrate that the higher-order network embedding (HONEM) method is able to extract higher-order dependencies from HON to construct the higher-order neighborhood matrix of the network, while existing methods are not able to capture these higher-order dependencies. We show that our method outperforms other state-of-the-art methods in node classifica- tion, network reconstruction, link prediction, and visualization.
+abstract: Representation learning offers a powerful alter- native to the oft painstaking process of manual feature engineering, and as a result, has enjoyed considerable success in recent years. This success is especially striking in the context of graph mining, since networks can take advantage of vast troves of sequential data to encode information about interactions between entities of interest. But how do we learn embeddings on networks that have higher-order and sequential dependen- cies? Existing network embedding methods naively assume the Markovian property (first-order dependency) for node interactions, which may not capture the time-dependent and longer-range underlying complex interactions of the raw data. To address the limitation of current methods, we propose a network embedding method for higher-order networks (HON). We demonstrate that the higher-order network embedding (HONEM) method is able to extract higher-order dependencies from HON to construct the higher-order neighborhood matrix of the network, while existing methods are not able to capture these higher-order dependencies. We show that our method outperforms other state-of-the-art methods in node classifica- tion, network reconstruction, link prediction, and visualization.
 
 # Summary. An optional shortened abstract.
 #summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. #Duis posuere tellus ac convallis placerat. Proin tincidunt magna #sed ex sollicitudin condimentum.
