@@ -25,6 +25,7 @@ interests:
 - Deep Learning
 - Knowledge Graphs
 - Reinforcement Learning
+- Meta-Learning
 
 education:
   courses:
@@ -45,16 +46,16 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: '#contact'  # For a direct email link, use "mailto:test@example.org".
+  link: 'mailto:msaebi@nd.edu' 
 - icon: linkedin
   icon_pack: fab
   link: https://www.linkedin.com/in/mandana-saebi/
 - icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.com/citations?user=tFm_ONIAAAAJ&hl=en
-- icon: github
-  icon_pack: fab
-  link: https://github.com/msaebi1993
+# - icon: github
+#  icon_pack: fab
+#   link: https://github.com/msaebi1993
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -70,5 +71,6 @@ user_groups:
 - Researchers
 - Visitors
 ---
+I am a Ph.D. candidate at the DIAL Lab at the University of Notre Dame. I am passionate about building ML solutions to solve real-world problems. In particular, I am interested in developing novel deep learning and reinforcement learning models for mining large-scale knowledge graphs.
+I am currently a Machine Learning intern at Apple, where I leverage knowledge graphs for improving Automatic Speech Recognition performance. 
 
-I am a PhD student at the DIAL Lab at University of Notre Dame. My research interests lies in the intersection of graph mining and machine learning. In particular, I am interested in large-scale knowledge graphs, reinforcement learning, deep learning and meta learning. 

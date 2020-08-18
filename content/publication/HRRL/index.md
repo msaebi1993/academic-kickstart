@@ -39,7 +39,7 @@ url_pdf: https://arxiv.org/pdf/2003.06050
 #url_dataset: '#'
 #url_poster: '#'
 ##url_project: ''
-#url_slides: ''
+# #url_slides: ''
 #url_source: '#'
 #url_video: '#'
 
@@ -56,14 +56,14 @@ image:
 #   E.g. `internal-project` references `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
 projects:
-- internal-project
+- content/project/HRRL/index.md
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides: "example"` references `content/slides/example/index.md`.
 #   Otherwise, set `slides: ""`.
-slides: example
+# slides: example
 ---
 
 

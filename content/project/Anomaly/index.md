@@ -1,8 +1,9 @@
 ---
 title: Anomaly Detection in Higher-Order Networks
-summary: Heterogeneous Relational Reasoning in Knowledge Graphs with Reinforcement Learning
+summary: Efficient Modeling of Higher-Order Dependencies
+in Networks: From Algorithm to Application for Anomaly Detection
 tags:
-- Reinforcement Learning, Knowledge Graphs, Relational Reasoning
+- Higher-order network, Dynamic network, Anomaly detection, Sequential data
 date: "2020-04-27T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
@@ -13,10 +14,7 @@ image:
   focal_point: Smart
 
 links:
-- icon: twitter
-  icon_pack: fab
-  name: Follow
-  url: https://twitter.com/georgecushen
+
 url_code: ""
 url_pdf: ""
 url_slides: ""
@@ -30,6 +28,5 @@ url_video: ""
 slides: example
 ---
 
-Path-based relational reasoning over knowledge graphs has become increasingly popular due to a variety of downstream applications such as question answering in dialogue systems, fact prediction, and recommendation systems. 
 
-In recent years, reinforcement learning (RL) based solutions have been demonstrated to be more interpretable and explainable than other deep learning models. However, the current solutions still struggle with performance issue due to incomplete state representation and large action space for the RL agent. We address these problems by introducing HRRL, a type-enhanced RL agent that utilizes the local heterogeneous neighborhood information for efficient path-based reasoning over knowledge graphs. Our solution improves the state representation using a graph neural network (GNN) for encoding the neighborhood information and utilizes entity type information for pruning the action space. Extensive experiments on real-world datasets show that our method outperforms state-of-the-art RL methods and discovers more novel paths during the training procedure, demonstrating the explorative power of our method.
+Complex systems, represented as dynamic networks, comprise of components that influence each other via direct and/or indirect interactions. Recent research has shown the importance of using Higher-Order Networks (HONs) for modeling and analyzing such complex systems, as the typical Markovian assumption in developing the First Order Network (FON) can be limiting. This higher-order network representation not only creates a more accurate representation of the underlying complex system, but also leads to more accurate network analysis. In this paper, we first present a scalable and accurate model, BuildHON+, for higher-order network representation of data derived from a complex system with various orders of dependencies. Then, we show that this higher-order network representation modeled by BuildHON+ is significantly more accurate in identifying anomalies than FON, demonstrating a need for the higher-order network representation and modeling of complex systems for deriving meaningful conclusions.
