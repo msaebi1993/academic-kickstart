@@ -31,13 +31,13 @@ education:
   courses:
   - course: PhD in Computer Science
     institution: University of Notre Dame
-    year: 2017
+    year: 2017 - Present
   - course: MSc in Electrical Engineering
     institution: University of Notre Dame
-    year: 2015
+    year: 2015 - 2017
   - course: BSc in Electrical Engineering
     institution: Iran University of Science & Technology
-    year: 2011
+    year: 2011 - 2015
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
