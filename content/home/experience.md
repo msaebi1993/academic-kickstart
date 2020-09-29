@@ -23,8 +23,8 @@ date_format = "Jan 2006"
   company_url = "https://www.apple.com/"
   location = ""
   date_start = "2020-06-01"
-  date_end = ""
-  description = """Exploring a knowledge graph driven language model for improving automatic speech recognition performance using a more consistent, scalable and adaptable approach."""
+  date_end = "2020-09-25"
+  description = """Developed a discriminative knowledge graph driven language model for improving automatic speech recognition performance using a more consistent, scalable and adaptable approach."""
   
  
 [[experience]]
@@ -35,7 +35,7 @@ date_format = "Jan 2006"
   location = "Notre Dame, IN"
   date_start = "2017-01-01"
   date_end = ""
-  description = """Research focouses on large-scale graph anslysis and developing machine learning models for learning from graph data across various real-world applications.
+  description = """Research focuses on building machine learning models for learning from large-scale graph-structured data. Current and past projects involve developing deep Learning, reinforcement learning, and meta-learning models for solving real-world problems such as question answering, relational reasoning, anomaly detection, representation learning, and chemical reaction yield prediction. See projects and publications for more details.
   """
 
 [[experience]]

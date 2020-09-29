@@ -5,10 +5,10 @@
 widget = "pages"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
-weight = 90  # Order that this section will appear.
+weight = 100  # Order that this section will appear.
 
 title = "Publications"
-subtitle = ""
+subtitle = "90"
 
 [content]
   # Page type to display. E.g. post, talk, or publication.
@@ -40,16 +40,16 @@ subtitle = ""
   view = 2
   
 [design.background]
-  # Apply a background color, gradient, or image.
+   Apply a background color, gradient, or image.
   #   Uncomment (by removing `#`) an option to apply it.
   #   Choose a light or dark text color by setting `text_color_light`.
   #   Any HTML color name or Hex value is valid.
     
   # Background color.
-  # color = "navy"
+   color = "navy"
   
   # Background gradient.
-  # gradient_start = "DeepSkyBlue"
+   gradient_start = "DeepSkyBlue"
   # gradient_end = "SkyBlue"
   
   # Background image.
