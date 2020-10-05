@@ -71,7 +71,8 @@ user_groups:
 - Researchers
 - Visitors
 ---
-I am a Ph.D. candidate at the DIAL Lab at the University of Notre Dame. I am passionate about building ML solutions to solve real-world problems. In particular, I am interested in developing novel deep learning and reinforcement learning models for mining large-scale knowledge graphs.
-I am currently a Machine Learning intern at Apple, where I leverage knowledge graphs for improving Automatic Speech Recognition performance. 
+I am a Ph.D. candidate at the DIAL Lab at the University of Notre Dame. I am passionate about building ML solutions to solve real-world problems. In particular, I am interested in developing novel deep learning and reinforcement learning models for mining complex large-scale knowledge graphs.
+Over the summer 2020, I was a Machine Learning intern at Apple, where I leveraged knowledge graphs for improving Automatic Speech Recognition performance. 
+I am a recipient of the GHC19 scholarship, and I have served in Grad SWE Board at the University of Notre Dame with the goal of empowering women in STEM fields.
 
 
