@@ -1,6 +1,7 @@
 ---
 title: Network analysis of ballast-mediated species introduction and dispersal patterns in the Arctic
-summary: Network analysis of ballast-mediated species introduction and dispersal in the Arctic
+# summary: Network analysis of ballast-mediated species introduction and dispersal in the Arctic
+summary: " "
 tags:
 - Network Science, Species Spread, Global Shipping
 date: "2020-10-04T00:00:00Z"

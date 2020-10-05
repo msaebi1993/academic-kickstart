@@ -1,6 +1,7 @@
 ---
 title: Relational Reasoning in Knowledge Graphs
-summary: Heterogeneous Relational Reasoning in Knowledge Graphs with Reinforcement Learning
+# summary: Heterogeneous Relational Reasoning in Knowledge Graphs with Reinforcement Learning
+summary: " "
 tags:
 - Reinforcement Learning, Knowledge Graphs, Relational Reasoning
 date: "2020-04-27T00:00:00Z"
