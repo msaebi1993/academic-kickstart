@@ -1,6 +1,6 @@
 ---
 title: HONEM:Learning Embedding for Higher Order Networks
-# summary: Learning Embedding for Higher Order Networks
+summary: Learning Embedding for Higher Order Networks
 tags:
 - Network embedding, Higher-order network, Network representation learning
 date: "2020-04-27T00:00:00Z"

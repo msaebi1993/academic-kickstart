@@ -1,6 +1,6 @@
 ---
 title: Anomaly Detection in Higher-Order Networks
-# summary: Efficient Modeling of Higher-Order Dependencies
+summary: Efficient Modeling of Higher-Order Dependencies
 in Networks: From Algorithm to Application for Anomaly Detection
 tags:
 - Higher-order network, Dynamic network, Anomaly detection, Sequential data
@@ -18,7 +18,7 @@ links:
 url_code: ""
 url_pdf: "https://link.springer.com/content/pdf/10.1140/epjds/s13688-020-00233-y.pdf"
 url_slides: ""
-url_video: ""
+url_video: "https://youtu.be/-HWcZktISZk"
 
 # Slides (optional).
 #   Associate this project with Markdown slides.
