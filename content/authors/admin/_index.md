@@ -60,7 +60,7 @@ social:
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
  - icon: cv
    icon_pack: ai
-   link: https://drive.google.com/file/d/1fDlYWQw15sEkJx7s9Z-NX-qKDSW9bGJY/view?usp=sharing
+   link: https://drive.google.com/file/d/15TZeDHw5TPJmGAIOF3jjIwhGXf3Pl1Z5/view?usp=sharing
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: "msaebi@nd.edu"
