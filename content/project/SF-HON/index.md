@@ -1,6 +1,6 @@
 ---
 title: Higher-order patterns of aquatic species spread through the global shipping network
-summary: Higher-order patterns of aquatic species spread through the global shipping network
+# summary: Higher-order patterns of aquatic species spread through the global shipping network
 tags:
 - Network Science, Species Spread, Global Shipping
 date: "2020-04-27T00:00:00Z"
@@ -12,13 +12,13 @@ image:
   caption: ""
   focal_point: Smart
 
-links:
-- icon: twitter
-  icon_pack: fab
-  name: Follow
-  url: https://twitter.com/georgecushen
+# links:
+# - icon: twitter
+#  icon_pack: fab
+#  name: Follow
+ # url: https://twitter.com/georgecushen
 url_code: ""
-url_pdf: ""
+url_pdf: "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0220353"
 url_slides: ""
 url_video: ""
 
