@@ -14,10 +14,10 @@ image:
 
 links:
 
-url_code: ""
+# url_code: ""
 url_pdf: "https://arxiv.org/pdf/1908.05387"
-url_slides: ""
-url_video: ""
+# url_slides: ""
+# url_video: ""
 
 # Slides (optional).
 #   Associate this project with Markdown slides.

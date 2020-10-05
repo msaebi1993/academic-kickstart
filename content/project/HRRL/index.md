@@ -17,9 +17,9 @@ image:
 #  icon_pack: fab
 #  name: Follow
 #  url: ""
-url_code: ""
+# url_code: ""
 url_pdf: "https://arxiv.org/pdf/2003.06050"
-url_slides: ""
+# url_slides: ""
 url_video: "https://youtu.be/-hD-x8z3kbg"
 
 # Slides (optional).

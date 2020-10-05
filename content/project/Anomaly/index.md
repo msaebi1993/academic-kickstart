@@ -15,9 +15,9 @@ image:
 
 links:
 
-url_code: ""
-url_pdf: "https://link.springer.com/content/pdf/10.1140/epjds/s13688-020-00233-y.pdf"
-url_slides: ""
+# url_code: ""
+# url_pdf: "https://link.springer.com/content/pdf/10.1140/epjds/s13688-020-00233-y.pdf"
+# url_slides: ""
 url_video: "https://youtu.be/-HWcZktISZk"
 
 # Slides (optional).

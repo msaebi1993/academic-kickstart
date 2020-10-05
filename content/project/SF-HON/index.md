@@ -17,10 +17,10 @@ image:
 #  icon_pack: fab
 #  name: Follow
  # url: https://twitter.com/georgecushen
-url_code: ""
+# url_code: ""
 url_pdf: "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0220353"
-url_slides: ""
-url_video: ""
+# url_slides: ""
+# url_video: ""
 
 # Slides (optional).
 #   Associate this project with Markdown slides.
