@@ -19,12 +19,22 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 [[item]]
-  organization = "Coursera"
-  organization_url = "https://www.coursera.org"
-  title = "Neural Networks and Deep Learning"
-  url = ""
-  certificate_url = "https://www.coursera.org/account/accomplishments/verify/U2FTHF6U3H8Y"
-  date_start = "2018-10-01"
+  organization = "AnitaB.org, Association for Computing Machinery (ACM)"
+  organization_url = "https://src.acm.org/"
+  title = "Winner of the ACM Student Research Competition at The Grace Hopper Celebration 2020"
+  url = "https://ghc.anitab.org/programs-and-awards/2020-acm-student-research-competition-winners/"
+  # certificate_url = "https://www.coursera.org/account/accomplishments/verify/U2FTHF6U3H8Y"
+  date_start = "2020-10-01"
+  date_end = ""
+  description = ""
+
+[[item]]
+  organization = "AnitaB.org"
+  organization_url = "https://ghc.anitab.org/"
+  title = "Awarded Full Grace Hopper 2019 Scholarship"
+  # url = "https://ghc.anitab.org/programs-and-awards/2020-acm-student-research-competition-winners/"
+  # certificate_url = "https://www.coursera.org/account/accomplishments/verify/U2FTHF6U3H8Y"
+  date_start = "2019-05-01"
   date_end = ""
   description = ""
 
