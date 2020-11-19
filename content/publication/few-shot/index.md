@@ -1,9 +1,9 @@
 ---
-title: "Heterogeneous Relational Reasoning in Knowledge Graphs with Reinforcement Learning"
+title: "Few-Shot Multi-Hop Relation Reasoning over Knowledge Bases"
 authors:
-- admin
-- Steven Krieg
 - Chuxu Zhang
+- Lu Yu
+- admin
 - Meng Jiang
 - Nitesh Chawla
 date: "2020-03-12T00:00:00Z"
@@ -16,13 +16,13 @@ publishDate: "2020-03-12T00:00:00Z"
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ["3"]
+publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
 publication: In *Source Themes Conference*
 publication_short: In *STC*
 
-Abstract: Path-based relational reasoning over knowledge graphs has become increasingly popular due to a variety of down- stream applications such as question answering in dialogue sys- tems, fact prediction, and recommender systems. In recent years, reinforcement learning (RL) has provided solutions that are more interpretable and explainable than other deep learn- ing models. However, these solutions still face several chal- lenges, including large action space for the RL agent and ac- curate representation of entity neighborhood structure. We address these problems by introducing a type-enhanced RL agent that uses the local neighborhood information for efficient path-based reasoning over knowledge graphs. Our solution uses graph neural network (GNN) for encoding the neighborhood information and utilizes entity types to prune the action space. Experiments on real-world dataset show that our method out- performs state-of-the-art RL methods and discovers more novel paths during the training procedure.
+Abstract: Multi-hop relation reasoning over knowledge base is to generate effective and interpretable relation prediction through reasoning paths. The current methods usually require sufficient training data (fact triples) for each query relation, impairing their performances over few-shot relations (with limited triples) which are common in knowledge base. To this end, we propose FIRE, a novel few-shot multi-hop relation learning model. FIRE applies reinforcement learning to model the sequential steps of multi-hop reasoning, besides performs heterogeneous structure encoding and knowledge-aware search space pruning. The meta-learning technique is employed to optimize model parameters that could quickly adapt to few-shot relations. Empirical study on two datasets demonstrate that FIRE outperforms state-of-the-art methods.
 
 # Summary. An optional shortened abstract.
 #summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. #Duis posuere tellus ac convallis placerat. Proin tincidunt magna #sed ex sollicitudin condimentum.
@@ -34,14 +34,14 @@ featured: false
 links:
 #- name: Custom Link
 #  url: ""
-url_pdf: https://arxiv.org/pdf/2003.06050
+url_pdf: https://www.aclweb.org/anthology/2020.findings-emnlp.51/
 #url_code: '#'
 #url_dataset: '#'
-url_poster: 'vghc-anitab.ipostersessions.com/Default.aspx?s=DF-C5-EA-16-A5-94-A8-9B-DA-B4-1B-F2-1A-A9-E2-C1'
+#url_poster: '#'
 ##url_project: ''
 # #url_slides: ''
 #url_source: '#'
-#url_video: 'https://youtu.be/-hD-x8z3kbg'
+#url_video: '#'
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 

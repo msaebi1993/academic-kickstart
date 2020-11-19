@@ -31,7 +31,7 @@ abstract: Complex systems, represented as dynamic networks, comprise of componen
 # summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. #Duis posuere tellus ac convallis placerat. Proin tincidunt magna #sed ex sollicitudin condimentum.
 
 tags:
-- Source Themes
+# - Source Themes
 featured: false
 
 links:
