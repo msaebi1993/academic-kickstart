@@ -32,15 +32,15 @@ tags:
 featured: false
 
 # links:
- - name: "Big Data"
-   url: "https://www.liebertpub.com/doi/abs/10.1089/big.2019.0169"
+# - name: "Big Data"
+#   url: ""
 url_pdf: https://arxiv.org/pdf/1908.05387.pdf
 # url_code: ''
 # url_dataset: ''
 # url_poster: ''
 # url_project: ''
 # #url_slides: ''
-# url_source: ''
+url_source: 'https://www.liebertpub.com/doi/abs/10.1089/big.2019.0169'
 url_video: 'https://www.youtube.com/watch?v=-HWcZktISZk&t=2s'
 
 # Featured image
