@@ -34,7 +34,7 @@ education:
     year: 2017 - Present
   - course: MSc in Electrical Engineering
     institution: University of Notre Dame
-    year: 2015 - 2017
+    year: 2015 - 2016
   - course: BSc in Electrical Engineering
     institution: Iran University of Science & Technology
     year: 2011 - 2015
@@ -71,8 +71,11 @@ user_groups:
 - Researchers
 - Visitors
 ---
-I am a Ph.D. candidate at the DIAL Lab at the University of Notre Dame. I am passionate about building ML solutions to solve real-world problems. In particular, I am interested in developing novel deep learning and reinforcement learning models for mining complex large-scale knowledge graphs.
+I am a Ph.D. candidate at the DIAL Lab at the University of Notre Dame. I am passionate about building ML solutions to solve real-world problems. In particular, I am interested in developing novel deep learning and reinforcement learning models for mining complex large-scale knowledge graphs. My research recently won the ACM student research competition award at GHC 2020.
+
 Over the summer 2020, I was a Machine Learning intern at Apple, where I leveraged knowledge graphs for improving Automatic Speech Recognition performance. 
-I am a recipient of the GHC19 scholarship, and I have served in Grad SWE Board at the University of Notre Dame with the goal of empowering women in STEM fields.
+
+# I enjoy working with people across different diciplines.
+# I am a recipient of the GHC19 scholarship, and I have served in Grad SWE Board at the University of Notre Dame with the goal of empowering women in STEM fields.
 
 

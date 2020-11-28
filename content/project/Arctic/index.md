@@ -28,7 +28,7 @@ url_pdf: "https://arxiv.org/pdf/2009.12728"
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
 #   Otherwise, set `slides = ""`.
-slides: example
+slides: ""
 ---
 
 Rapid climate change has wide-ranging implications for the Arctic region, including sea ice loss, increased geopolitical attention, and expanding economic activity, including a dramatic increase in shipping activity. As a result, the risk of harmful non-native marine species being introduced into this critical region will increase unless policy and management steps are implemented in response. Using big data about shipping, ecoregions, and environmental conditions, we leverage network analysis and data mining techniques to assess, visualize, and project ballast water-mediated species introductions into the Arctic and dispersal of non-native species within the Arctic. We first identify high-risk connections between the Arctic and non-Arctic ports that could be sources of non-native species over 15 years (1997-2012) and observe the emergence of shipping hubs in the Arctic where the cumulative risk of non-native species introduction is increasing. We then consider how environmental conditions can constrain this Arctic introduction network for species with different physiological limits, thus providing a species-level tool for decision-makers. Next, we focus on within-Arctic ballast-mediated species dispersal where we use higher-order network analysis to identify critical shipping routes that may facilitate species dispersal within the Arctic. The risk assessment and projection framework we propose could inform risk-based assessment and management of ship-borne invasive species in the Arctic.
