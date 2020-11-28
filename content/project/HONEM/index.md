@@ -18,7 +18,7 @@ links:
 # url_code: ""
 url_pdf: "https://arxiv.org/pdf/1908.05387"
 # url_slides: ""
-# url_video: "https://www.youtube.com/watch?v=-HWcZktISZk&t=2s"
+url_video: "https://www.youtube.com/watch?v=-HWcZktISZk&t=2s"
 
 # Slides (optional).
 #   Associate this project with Markdown slides.

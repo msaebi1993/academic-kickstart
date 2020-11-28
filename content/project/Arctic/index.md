@@ -19,7 +19,7 @@ image:
 #  name: Follow
 #  url: https://twitter.com/georgecushen
 # url_code: ""
-url_pdf: "https://arxiv.org/pdf/2009.12728"
+url_pdf: "https://www.nature.com/articles/s41598-020-76602-4"
 # url_slides: ""
 # url_video: ""
 

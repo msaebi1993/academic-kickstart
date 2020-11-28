@@ -19,8 +19,8 @@ publishDate: "2020-03-12T00:00:00Z"
 publication_types: ["3"]
 
 # Publication name and optional abbreviated publication name.
-publication: In *Source Themes Conference*
-publication_short: In *STC*
+# publication: In *Source Themes Conference*
+# publication_short: In *STC*
 
 Abstract: Path-based relational reasoning over knowledge graphs has become increasingly popular due to a variety of down- stream applications such as question answering in dialogue sys- tems, fact prediction, and recommender systems. In recent years, reinforcement learning (RL) has provided solutions that are more interpretable and explainable than other deep learn- ing models. However, these solutions still face several chal- lenges, including large action space for the RL agent and ac- curate representation of entity neighborhood structure. We address these problems by introducing a type-enhanced RL agent that uses the local neighborhood information for efficient path-based reasoning over knowledge graphs. Our solution uses graph neural network (GNN) for encoding the neighborhood information and utilizes entity types to prune the action space. Experiments on real-world dataset show that our method out- performs state-of-the-art RL methods and discovers more novel paths during the training procedure.
 
