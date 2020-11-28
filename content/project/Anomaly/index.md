@@ -27,7 +27,7 @@ url_video: "https://youtu.be/-HWcZktISZk"
 #   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
 #   Otherwise, set `slides = ""`.
 slides = ""
-
+---
 
 
 Complex systems, represented as dynamic networks, comprise of components that influence each other via direct and/or indirect interactions. Recent research has shown the importance of using Higher-Order Networks (HONs) for modeling and analyzing such complex systems, as the typical Markovian assumption in developing the First Order Network (FON) can be limiting. This higher-order network representation not only creates a more accurate representation of the underlying complex system, but also leads to more accurate network analysis. In this paper, we first present a scalable and accurate model, BuildHON+, for higher-order network representation of data derived from a complex system with various orders of dependencies. Then, we show that this higher-order network representation modeled by BuildHON+ is significantly more accurate in identifying anomalies than FON, demonstrating a need for the higher-order network representation and modeling of complex systems for deriving meaningful conclusions.
