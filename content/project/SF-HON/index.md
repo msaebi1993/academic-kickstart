@@ -28,7 +28,7 @@ url_pdf: "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0220
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
 #   Otherwise, set `slides = ""`.
-slides: example
+slides = ""
 ---
 
 The introduction and establishment of nonindigenous species (NIS) through global ship movements poses a significant threat to marine ecosystems and economies. While ballast-vectored invasions have been partly addressed by some national policies and an international agreement regulating the concentrations of organisms in ballast water, biofouling-vectored invasions remain largely unaddressed. Development of additional efficient and cost-effective ship-borne NIS policies requires an accurate estimation of NIS spread risk from both ballast water and biofouling. We demonstrate that the first-order Markovian assumption limits accurate modeling of NIS spread risks through the global shipping network. In contrast, we show that higher-order patterns provide more accurate NIS spread risk estimates by revealing indirect pathways of NIS transfer using Species Flow Higher-Order Networks (SF-HON).

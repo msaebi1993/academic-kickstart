@@ -18,14 +18,14 @@ links:
 # url_code: ""
 url_pdf: "https://arxiv.org/pdf/1908.05387"
 # url_slides: ""
-# url_video: ""
+# url_video: "https://www.youtube.com/watch?v=-HWcZktISZk&t=2s"
 
 # Slides (optional).
 #   Associate this project with Markdown slides.
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
 #   Otherwise, set `slides = ""`.
-slides: example
+slides = ""
 ---
 
 

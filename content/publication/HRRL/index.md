@@ -29,7 +29,7 @@ Abstract: Path-based relational reasoning over knowledge graphs has become incre
 
 tags:
 #- Source Themes
-featured: false
+featured: true
 
 links:
 #- name: Custom Link

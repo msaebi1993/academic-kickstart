@@ -75,7 +75,4 @@ I am a Ph.D. candidate at the DIAL Lab at the University of Notre Dame. I am pas
 
 Over the summer 2020, I was a Machine Learning intern at Apple, where I leveraged knowledge graphs for improving Automatic Speech Recognition performance. 
 
-# I enjoy working with people across different diciplines.
-# I am a recipient of the GHC19 scholarship, and I have served in Grad SWE Board at the University of Notre Dame with the goal of empowering women in STEM fields.
-
 
