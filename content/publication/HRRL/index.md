@@ -37,7 +37,7 @@ links:
 url_pdf: https://arxiv.org/pdf/2003.06050
 #url_code: '#'
 #url_dataset: '#'
-url_poster: 'vghc-anitab.ipostersessions.com/Default.aspx?s=DF-C5-EA-16-A5-94-A8-9B-DA-B4-1B-F2-1A-A9-E2-C1'
+# url_poster: 'vghc-anitab.ipostersessions.com/Default.aspx?s=DF-C5-EA-16-A5-94-A8-9B-DA-B4-1B-F2-1A-A9-E2-C1'
 ##url_project: ''
 # #url_slides: ''
 #url_source: '#'
