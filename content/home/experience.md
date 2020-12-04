@@ -39,7 +39,7 @@ date_format = "Jan 2006"
   """
 
 [[experience]]
-  title = "Data Sceince Intern"
+  title = "Data Science Intern"
   company = "Tala"
   company_url = "https://tala.co"
   location = "California"
