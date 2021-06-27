@@ -19,7 +19,7 @@ publishDate: ""
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-#publication: "*Journal of Source Themes, 1*(1)"
+publication: In Big Data
 #publication_short: ""
 
 abstract: Representation learning on networks offers a powerful alternative to the oft painstaking process of manual feature engineering, and, as a result, has enjoyed considerable success in recent years. However, all the existing representation learning methods are based on the first-order network, that is, the network that only captures the pairwise interactions between the nodes. As a result, these methods may fail to incorporate non-Markovian higher order dependencies in the network. Thus, the embeddings that are generated may not accurately represent the underlying phenomena in a network, resulting in inferior performance in different inductive or transductive learning tasks. To address this challenge, this study presents higher order network embedding (HONEM), a higher order network (HON) embedding method that captures the non-Markovian higher order dependencies in a network. HONEM is specifically designed for the HON structure and outperforms other state-of-the-art methods in node classification, network reconstruction, link prediction, and visualization for networks that contain non-Markovian higher order dependencies.
