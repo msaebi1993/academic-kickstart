@@ -19,6 +19,17 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 [[item]]
+  organization = "International Speech Communication Association (ISCA)"
+  organization_url = "https://www.interspeech2021.org/"
+  title = "Awarded full travel grant to attend Interpeech 2021"
+  url = ""
+  # certificate_url = "https://www.coursera.org/account/accomplishments/verify/U2FTHF6U3H8Y"
+  date_start = "2021-06-19"
+  date_end = ""
+  description = ""
+  
+  
+[[item]]
   organization = "AnitaB.org, Association for Computing Machinery (ACM)"
   organization_url = "https://src.acm.org/"
   title = "Winner of the ACM Student Research Competition at The Grace Hopper Celebration 2020"

@@ -73,8 +73,5 @@ user_groups:
 ---
 I am a Ph.D. candidate at the DIAL Lab at the University of Notre Dame. I am passionate about building ML solutions to solve real-world problems. In particular, I am interested in developing novel deep learning and reinforcement learning models for mining complex large-scale knowledge graphs. I'm currently a data science intern at Microsoft, where I work on developing machine learning models for bid prediction in online auctions.
 
-#My research recently won the ACM student research competition award at GHC 2020.
-
-#Over the summer 2020, I was a Machine Learning intern at Apple, where I leveraged knowledge graphs for improving Automatic Speech Recognition performance. 
 
 
