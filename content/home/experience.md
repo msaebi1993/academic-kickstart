@@ -24,7 +24,7 @@ date_format = "Jan 2006"
   location = "Redmond, WA"
   date_start = "2021-06-01"
   date_end = ""
-  description = """Budilding machine learning models for predicting bid price in online auctions."""
+  description = """Building machine learning models for predicting bid price in online auctions."""
 
 [[experience]]
   title = "Machine Learning Intern"
