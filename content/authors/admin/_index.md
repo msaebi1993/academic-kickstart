@@ -10,11 +10,11 @@ authors:
 superuser: true
 
 # Role/position
-role: Graduate Reserch Assistant
+role: Machine Learning Engineer
 
 # Organizations/Affiliations
 organizations:
-- name: University of Notre Dame
+- name: Apple
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
@@ -31,7 +31,7 @@ education:
   courses:
   - course: PhD in Computer Science
     institution: University of Notre Dame
-    year: 2017 - Present
+    year: 2017 - 2021
   - course: MSc in Electrical Engineering
     institution: University of Notre Dame
     year: 2015 - 2016
