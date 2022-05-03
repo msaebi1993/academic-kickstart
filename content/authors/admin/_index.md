@@ -71,7 +71,7 @@ user_groups:
 - Researchers
 - Visitors
 ---
-I am a Ph.D. candidate at the DIAL Lab at the University of Notre Dame. I am passionate about building ML solutions to solve real-world problems. In particular, I am interested in developing novel deep learning and reinforcement learning models for mining complex large-scale knowledge graphs. I'm currently a data science intern at Microsoft, where I work on developing machine learning models for bid prediction in online auctions.
+I am a Machine Learning Engineer at Apple knowledge platform team. Prior to this, I received my Ph.D. in Computer Science at the University of Notre Dame. I am passionate about building ML solutions to solve real-world problems. In particular, I am interested in developing machine learning models for mining complex large-scale knowledge graphs.
 
 
 
