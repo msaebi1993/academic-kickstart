@@ -32,7 +32,7 @@ date_format = "Jan 2006"
   company_url = "http://microsoft.com"
   location = "Redmond, WA"
   date_start = "2021-06-01"
-  date_end = ""
+  date_end = "2021-08-20"
   description = """Building machine learning models for predicting bid price in online auctions."""
 
 [[experience]]
@@ -52,8 +52,8 @@ date_format = "Jan 2006"
   company_url = "https://cse.nd.edu"
   location = "Notre Dame, IN"
   date_start = "2017-01-01"
-  date_end = ""
-  description = """Research focuses on building machine learning models for learning from large-scale graph-structured data. Current and past projects involve developing deep Learning, reinforcement learning, and meta-learning models for solving real-world problems such as question answering, relational reasoning, anomaly detection, representation learning, and chemical reaction yield prediction. See projects and publications for more details.
+  date_end = "2021-08-31"
+  description = """Research was focused on building machine learning models for learning from large-scale graph-structured data. Past projects involved developing deep Learning, reinforcement learning, and meta-learning models for solving real-world problems such as question answering, relational reasoning, anomaly detection, representation learning, and chemical reaction yield prediction. See projects and publications for more details.
   """
 
 [[experience]]
