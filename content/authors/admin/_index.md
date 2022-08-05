@@ -46,13 +46,13 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'mailto:msaebi@nd.edu' 
+  link: 'mailto:maa.saebi@gmail.com' 
 - icon: linkedin
   icon_pack: fab
   link: https://www.linkedin.com/in/mandana-saebi/
 - icon: google-scholar
   icon_pack: ai
-  link: https://scholar.google.com/citations?user=tFm_ONIAAAAJ&hl=en
+  link: https://scholar.google.com/citations?user=OSt3YFsAAAAJ&hl=en
 # - icon: github
 #  icon_pack: fab
 #   link: https://github.com/msaebi1993
@@ -63,7 +63,7 @@ social:
   link: "files/cv.pdf"
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: "msaebi@nd.edu"
+email: "maa.saebi@gmail.com"
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
